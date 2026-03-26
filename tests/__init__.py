@@ -1,1 +1,1 @@
-"""L¤¸ (¤À"""
+"""Tests package"""
