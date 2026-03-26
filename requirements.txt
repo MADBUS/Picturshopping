@@ -1,0 +1,12 @@
+# LLM & AI (Vision 지원)
+google-genai>=1.0.0
+
+# HTTP Client (네이버 쇼핑 API)
+requests>=2.31.0
+
+# Testing
+pytest>=8.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+Pillow>=10.0.0
